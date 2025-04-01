@@ -1,0 +1,5 @@
+C:\Users\wwwbu\source\repos\garderob1\garderob1\obj\Debug\net6.0-windows\garderob1.csproj.AssemblyReference.cache
+C:\Users\wwwbu\source\repos\garderob1\garderob1\obj\Debug\net6.0-windows\garderob1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwbu\source\repos\garderob1\garderob1\obj\Debug\net6.0-windows\garderob1.AssemblyInfoInputs.cache
+C:\Users\wwwbu\source\repos\garderob1\garderob1\obj\Debug\net6.0-windows\garderob1.AssemblyInfo.cs
+C:\Users\wwwbu\source\repos\garderob1\garderob1\obj\Debug\net6.0-windows\garderob1.csproj.CoreCompileInputs.cache
